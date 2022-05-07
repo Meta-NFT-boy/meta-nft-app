@@ -1,4 +1,4 @@
-# Meta元宇宙 NFT藏品 前端H5+APP源码 Meta-APP
+# Meta元宇宙 NFT藏品 前端H5+APP+小程序源码 Meta-APP
 
 ## 支持系统
 [Meta元宇宙 NFT藏品 后台管理系统源码 Meta-Admin](https://github.com/Meta-NFT-boy/meta-nft-admin)
