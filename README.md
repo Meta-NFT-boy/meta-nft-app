@@ -186,4 +186,4 @@ QQ：287145101
 
 #后台展示
 
-<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/023b5bb5c9ea15ce72b87b228.png" width="900" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/023b5bb5c9ea15ce72b87b2218.png" width="900" />
