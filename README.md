@@ -166,23 +166,24 @@ QQ：287145101
 
 ### APP，H5 浅色
 
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(1).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(2).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(3).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(4).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(5).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(6).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(7).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(8).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(9).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(10).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(1).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(2).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(3).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(4).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(5).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(6).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(7).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(8).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(9).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/view-demo(10).png" width="400" />
 
 ### 深色 演示
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/dark-view-demo(1).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/dark-view-demo(2).png" width="400" />
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/dark-view-demo(3).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/dark-view-demo(1).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/dark-view-demo(2).png" width="400" />
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/dark-view-demo(3).png" width="400" />
 
 ### 更多的风格可以自行定制
 
 #后台展示
-<img src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/023b5bb5c9ea15ce72b87b228.png" width="600" />
+
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/023b5bb5c9ea15ce72b87b228.png" width="900" />
