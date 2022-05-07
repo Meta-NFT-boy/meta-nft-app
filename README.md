@@ -6,13 +6,13 @@
 [Meta元宇宙 NFT藏品 服务端系统源码 Meta-Server](https://github.com/Meta-NFT-boy/meta-nft-server)
 
 
-**A magical vue element admin.**
+**效果演示**
 
 - [效果演示地址](http://server.aimdream.com)
 
 **说明：**
 
-**master分支**：采用 uniapp 开发，支持发布各大主流程的小程序，和iOS、安卓客户端
+**master**：采用 uniapp 开发，支持发布各大主流程的小程序，和iOS、安卓客户端
 
 ## 提示
 <p style="display:flex;align-items:center;">
