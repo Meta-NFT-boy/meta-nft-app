@@ -12,7 +12,7 @@
 
 **说明：**
 
-**master**：采用 uniapp 开发，支持发布各大主流程的小程序，和iOS、安卓客户端
+**master**：采用 vue 开发，支持发布各大主流程的小程序，和iOS、安卓客户端
 
 ## 提示
 <p style="display:flex;align-items:center;">
@@ -34,7 +34,7 @@
 
 **前端技术栈：** vue2 + vuex + vue-router + webpack + ES6/7 + element-ui + Ant Design UI
 
-**服务端技术栈：** Node js + MySQL + Redis
+**服务端技术栈：**  MySQL + Redis
 
 
 ## 前序准备
@@ -48,7 +48,7 @@
 
 2. cd ……
  
-3. npm install
+3. ……
 
 **本地运行：**
 
@@ -61,7 +61,9 @@
 ## 演示
 ## 
 测试账号:
-1. username: 13800138000 / password: 654321
+1. username: 13800138000 
+
+2. password: 654321
 
 ## 技术答疑，项目交流
 欢迎联系我们：
