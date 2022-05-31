@@ -41,7 +41,7 @@ QQ：287145101、1423374876
 
 <img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-admin/blob/main/static/weichat.png">
 
-#优先购特别说明
+# 优先购特别说明
 
 目前支持有三种优选购配置
 
@@ -67,7 +67,7 @@ QQ：287145101、1423374876
 
 如果没有设置前面两个优先购，则全部都是普通用户可购买
 
-#中签演示
+## 中签演示
 
 流程是预约->抽签->购买->流通，每一个环节都可以控制时间
 
@@ -75,11 +75,11 @@ QQ：287145101、1423374876
 
 <img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/1653823109297.gif">
 
-#二级演示
+## 二级演示
 
 <img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/20220531164931.gif">
 
-#邀请好友拉新活动演示
+## 邀请好友拉新活动演示
 
 <img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/1653987676203.gif">
 
