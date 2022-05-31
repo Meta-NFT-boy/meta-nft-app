@@ -81,7 +81,7 @@ QQ：287145101、1423374876
 
 ## 邀请好友拉新活动演示
 
-<img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/1653987676203.gif">
+<img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/1653988575719.gif">
 
 
 # 前端支持功能：
