@@ -2,6 +2,9 @@
 # META-NFT-Market
 # 项目介绍 -- 幻核 鲸探 唯一艺术 
 目前最新最火的元宇宙NFT藏品项目，支持二次开发
+不要找了，这就是最新的台子
+
+支持平台邀新注册活动、优先购、盲盒、抽签、转赠、二级（衍生品）流通交易
 
 ## 支持系统
 [Meta元宇宙 NFT藏品 后台管理系统源码 Meta-Admin](https://github.com/Meta-NFT-boy/meta-nft-admin)
@@ -36,6 +39,35 @@ QQ：287145101、1423374876
 加的时候备注：github
 
 <img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-admin/blob/main/static/weichat.png">
+
+#优先购特别说明
+目前支持有三种优选购配置
+创世优先于中签用户，中签用户优先普通用户
+
+1、创世用户优先购，（名单是动态的，根据平台设定的条件快照白名单）
+未购完的份额，自动分配到中签用户份额，如果没有中签用户份额，继续分配到普通购买份额中
+
+2、中签用户优先购
+中签又分两种
+一种是优先于普通用户的购买。未购完的份额，自动分配到普通购买份额中
+
+另外一种是一期藏品只有中签用户才能购买
+普通用户0购买额度，即不能购买
+
+优先购期间，只有优先购用户可以看到购买按钮，其他用户是倒计时。
+
+#中签演示
+流程是预约->抽签->购买->流通，每一个环节都可以控制时间
+
+可以单独或结合盲盒配置成新用户注册的活动奖励
+
+<img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/1653823109297.gif">
+
+#二级演示
+<img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/20220531164931.gif">
+
+#邀请好友拉新活动演示
+<img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/1653987676203.gif">
 
 # 前端支持功能：
 
@@ -83,10 +115,14 @@ QQ：287145101、1423374876
 
 - [x] 藏品空投（抽签）
 概率控制
+<img style="border:1px solid #ddd;" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/assets/20220519103210_1.gif" width="400" />
 
 - [x] 更多……
 
 完整整站功能，不一一罗列
+
+
+
 
 # 海报生成服务器：运营利器
 
@@ -99,7 +135,7 @@ QQ：287145101、1423374876
 - [x] 在线创建藏品合约,铸造NFT藏品
 - [x] 按项目对购买用户批量发放NFT（铸造）
 - [x] 按购买订单批量发放NFT
-- [x] 定时自动发放NFT
+- [x] 自动发放NFT
 
 另外的服务程序介绍
 
@@ -123,7 +159,7 @@ QQ：287145101、1423374876
 
 > NFT藏品
 - [x] NFT藏品管理（藏品上下架）
-- [x] redis缓存管理
+- [x] 缓存管理
 - [x] 盲盒配置管理
 - [x] 购买黑白名单（过滤设置、优先购买）
 - [x] 藏品创造者
