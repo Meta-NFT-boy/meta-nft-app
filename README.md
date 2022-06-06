@@ -81,7 +81,7 @@ QQ：287145101、1423374876
 
 多种活动形式，后台可以灵活配置，每期活动可配置一种或N种玩法，每种玩法可以消耗不同的藏品，销毁的藏品任何人都不再持有，将在链上销毁。
 
-<img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/0220607005035_.gif">
+<img width="300" src="https://github.com/Meta-NFT-boy/meta-nft-app/blob/main/static/0220607005035.gif">
 
 ## 二级演示
 
