@@ -1,6 +1,6 @@
 <template>
 	<view>
-		
+	<h1>18数藏，蚂蚁数藏</h1>
 	</view>
 </template>
 
